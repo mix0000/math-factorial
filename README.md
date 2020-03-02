@@ -1,5 +1,5 @@
 # math-factorial
-Additional function for class Math to compute the factorial of a value. 
+Additional function for class Math to compute the factorial of a value. <br>
 **Factorial function only supports a positive numbers or 0 as argument.**
 
 ## Quickstart
